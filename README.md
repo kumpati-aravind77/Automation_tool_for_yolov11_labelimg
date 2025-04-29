@@ -8,7 +8,7 @@ A simple and powerful GUI tool to automatically generate labels for images using
 
 Here is an example of how the tool looks:
 
-![Tool Image](images/your-image.png)
+![Tool Image](Gui_Interface.png)
 
 
 ## 📜 Table of Contents
