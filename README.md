@@ -59,3 +59,14 @@ pip install ultralytics labelImg pillow
 To start the application:
 ```bash
 python main.py
+```
+
+
+## 🛠️ Configuration
+```bash
+Update the config.py file according to your system setup:
+LOGO_PATH = "assets/logo.png"  # Path to logo image
+MODEL_WEIGHTS = "weights/yolov11_best.pt"  # Path to YOLOv11 trained weights
+CLASSES_FILE_PATH = "classes/classes.txt"  # Path to your classes.txt file
+LABELIMG_EXEC = "labelImg"  # LabelImg execution command or full path
+```
