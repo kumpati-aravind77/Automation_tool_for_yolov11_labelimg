@@ -1,0 +1,26 @@
+person
+bicycle
+car
+motorcycle
+route board
+bus
+commercial vehicle
+truck
+traffic sign
+traffic light
+autorickshaw
+stop sign
+ambulance
+bench
+construction vehicle
+animal
+unmarked speed bump
+marked speed bump
+pothole
+police vehicle
+tractor
+pushcart
+temporary traffic barrier
+rumblestrips
+traffic cone
+zebra crossing
