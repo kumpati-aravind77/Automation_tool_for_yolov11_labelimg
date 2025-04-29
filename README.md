@@ -4,6 +4,12 @@
 A simple and powerful GUI tool to automatically generate labels for images using **YOLOv11** and manually annotate them using **LabelImg**.
 
 ---
+## Example Image
+
+Here is an example of how the tool looks:
+
+![Tool Image](images/your-image.png)
+
 
 ## 📜 Table of Contents
 
