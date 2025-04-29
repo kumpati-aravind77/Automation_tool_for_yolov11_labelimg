@@ -70,3 +70,18 @@ MODEL_WEIGHTS = "weights/yolov11_best.pt"  # Path to YOLOv11 trained weights
 CLASSES_FILE_PATH = "classes/classes.txt"  # Path to your classes.txt file
 LABELIMG_EXEC = "labelImg"  # LabelImg execution command or full path
 ```
+## 📁 Folder Structure
+
+Here's the layout of the project folder:
+```bash
+├── main.py                 # GUI main application script
+├── config.py                # Configuration file
+├── assets/
+│   └── logo.png             # Logo image for the GUI
+├── weights/
+│   └── yolov11_best.pt      # Pre-trained YOLOv11 model weights
+├── classes/
+│   └── classes.txt          # Class names for object detection
+├── README.md                # Project documentation (this file)
+└── requirements.txt         # Python dependencies
+```
