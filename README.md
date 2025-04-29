@@ -53,6 +53,7 @@ pip install -r requirements.txt
 
 # 3. Install YOLOv11 and LabelImg if not already installed
 pip install ultralytics labelImg pillow
+bash```
 
 
 ## 🖥️ Usage
